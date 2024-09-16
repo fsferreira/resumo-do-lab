@@ -16,3 +16,7 @@
   * IaaS - Quase total da responsabilidade é do cliente
   * PaaS - 50% da responsabilidade é dividida com o provedor
   * SaaS - Quase total da responsabilidade é do provedor
+## Microsoft Azure - Arquitetura de Componentes
+  * Regiões de zonas de disponibilidade
+  * Assinaturas e grupos de recursos
+ 
